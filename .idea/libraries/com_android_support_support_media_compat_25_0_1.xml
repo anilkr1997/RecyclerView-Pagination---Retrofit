@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="com.android.support:support-media-compat-25.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.1.aar/09c880b4d3da276b995dd20e7ba70ce8/jars/libs/internal_impl-25.0.1.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.1.aar/09c880b4d3da276b995dd20e7ba70ce8/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.0.1.aar/09c880b4d3da276b995dd20e7ba70ce8/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/sdk/Sdk/extras/android/m2repository/com/android/support/support-media-compat/25.0.1/support-media-compat-25.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/sdk/Sdk/extras/android/m2repository/com/android/support/support-media-compat/25.0.1/support-media-compat-25.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
